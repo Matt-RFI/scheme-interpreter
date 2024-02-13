@@ -1,6 +1,8 @@
 # Scheme Interpreter
+An interactive interpreter for the scheme programming language written in python. Fully supports all R5RS features, along with some additional capabilties.
 
-To start an interactive Scheme interpreter session,run the following command:
+## Starting an interactive session
+To start an interactive scheme interpreter session,run the following command:
 ```
 python3 scheme.py
 ```

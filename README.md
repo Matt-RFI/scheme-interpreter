@@ -1,4 +1,4 @@
-# Scheme-Interpreter-Python-Project
+# Scheme Interpreter
 
 To start an interactive Scheme interpreter session,run the following command:
 ```
